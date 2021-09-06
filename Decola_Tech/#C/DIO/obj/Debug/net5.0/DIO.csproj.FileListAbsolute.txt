@@ -1,0 +1,16 @@
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\DIO.exe
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\DIO.deps.json
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\DIO.runtimeconfig.json
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\DIO.dll
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\ref\DIO.dll
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\bin\Debug\net5.0\DIO.pdb
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.csproj.AssemblyReference.cache
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.dll
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\ref\DIO.dll
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.pdb
+C:\Users\Leonardo Araújo\Desktop\GitHub\#C\DIO\obj\Debug\net5.0\DIO.genruntimeconfig.cache
